@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XiLY+dyD2Vox90LaMV8hPaYXLAG1L1uYkpKATc05bBD2GYatUL3lhoJdF+iWw7glULEe/+RLPBnlTrXfppFl/A==",
+  "success": true,
+  "projectFilePath": "E:\\CacProjectHieuPX\\DemoJenKins\\DemoJenKins\\DemoJenKins\\DemoJenKins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HieuPX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\HieuPX\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\HieuPX\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\HieuPX\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
